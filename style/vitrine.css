@@ -1,0 +1,30 @@
+body
+{
+    background-color: #f2f2f2;
+}
+@font-face{
+    font-family: 'MaSuperPolice';
+    src: url('Open_Sans.zip');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: 'nasalization';
+    src: url('nasalization-rg.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+head
+{
+    background-image: url('texture-header.jpg');
+    background-size: 150px;    
+}
+h1
+{
+    font-family: 'nasalization';
+}
+body
+{
+    font-family: 'nasalization';
+    text-align: 'right';
+}
